@@ -1,1 +1,1 @@
-Write a script that sets the mode of the file hello to this:
+10-mirror_permissions
