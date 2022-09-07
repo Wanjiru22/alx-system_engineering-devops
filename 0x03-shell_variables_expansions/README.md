@@ -1,1 +1,1 @@
-Create a script that creates an alias.
+ A readme file for the shell variables and inputs
