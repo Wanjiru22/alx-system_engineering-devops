@@ -1,1 +1,1 @@
-Shell redirection redme  file
+Display the content of the /etc/passwd file.
